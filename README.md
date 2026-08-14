@@ -1,4 +1,4 @@
-# 🐟 Smart Aquaculture Monitoring System –  
+# 🐟 Smart Aquaculture Monitoring System   
 
 Welcome to the source code of our project developed for JunctionX Algeria - Control Team: *Digitizing Aquaculture in Algeria*.
 
