@@ -21,4 +21,4 @@ This platform provides real-time monitoring, AI-powered predictions, and alertin
 - AI: YOLO / Torch / Machine learning algorithm
 - IoT : Node-Red
 
-Thanks and good luck !
+
